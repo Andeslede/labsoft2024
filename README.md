@@ -1,2 +1,2 @@
 # Laboratorios de Ingeniería del Software
-JavierVerduS
+Javier Verdú Sánchez JavierVerduS
