@@ -1,4 +1,6 @@
-# Laboratorios de Ingeniería del Software
+# Laboratorios de Ingeniería del Software.
+
+##  Juan Pedro Pérez Nieto; JusTroPitt
 
 ## Alejandro Martínez Marín alex24757673 alexmartct@gmail.com
 
