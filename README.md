@@ -1,4 +1,7 @@
-# Laboratorios de Ingeniería del Software.
+
+# Laboratorios de Ingeniería del Software
+
+## Javier Solache Belchí JvSolH jvolache@gmail.com
 
 ##  Juan Pedro Pérez Nieto; JusTroPitt
 
@@ -15,3 +18,4 @@
 ## José Martínez Ortega; josemor14
 
 ## Nombre: Youssef Cheh Etaibi, Usuario github: Yc3t
+
