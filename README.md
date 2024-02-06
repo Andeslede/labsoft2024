@@ -1,5 +1,7 @@
 # Laboratorios de Ingeniería del Software
 
+## Alejandro Martínez Marín alex24757673 alexmartct@gmail.com
+
 ## Javier Verdú Sánchez JavierVerduS
 
 ## Miguel Ballesteros Abadía -> MiguelBaAb
