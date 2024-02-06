@@ -1,2 +1,4 @@
 # Laboratorios de Ingeniería del Software
-Nombre: Youssef Cheh Etaibi, Usuario github: Yc3t
+
+# José Martínez Ortega; josemor14
+# Nombre: Youssef Cheh Etaibi, Usuario github: Yc3t
