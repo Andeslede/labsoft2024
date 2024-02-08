@@ -19,3 +19,5 @@
 
 ## Nombre: Youssef Cheh Etaibi, Usuario github: Yc3t
 
+## Name : Abel López García    GitHub: abellak    E-Mail: abel.lopezg@edu.upct.es
+
