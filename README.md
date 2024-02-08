@@ -19,3 +19,5 @@
 
 ## Nombre: Youssef Cheh Etaibi, Usuario github: Yc3t
 
+## Nombre: Volodymyr. Usuario: Gowelx89
+
