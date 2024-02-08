@@ -20,3 +20,7 @@
 ## Nombre: Youssef Cheh Etaibi, Usuario github: Yc3t
 
 ## Andrea villacis vanegas andreavv28 andrea.villacis2002@gmail.com 
+
+## Name : Abel López García    GitHub: abellak    E-Mail: abel.lopezg@edu.upct.es
+
+## Nombre: Volodymyr. Usuario: Gowelx89
