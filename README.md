@@ -24,3 +24,6 @@
 ## Name : Abel López García    GitHub: abellak    E-Mail: abel.lopezg@edu.upct.es
 
 ## Nombre: Volodymyr. Usuario: Gowelx89
+
+
+## Nombre: Hamza Hmiddouch. Usuario: haamza24.
