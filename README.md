@@ -25,5 +25,6 @@
 
 ## Nombre: Volodymyr. Usuario: Gowelx89
 
+## Nombre: Andres Legarreta Delgado ' Github: Andeslede
 
 ## Nombre: Hamza Hmiddouch. Usuario: haamza24.
